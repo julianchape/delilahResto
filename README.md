@@ -32,4 +32,4 @@ Abrir el archivo `swaggerdoc.yaml` y pegar su contenido en [Swagger](https://edi
 Para esto hay que ejecutar el archivo `index.js` ubicado en la raíz del proyecto con node, usando ```node index.js```
 
 ## Listo para usar!
-Una vez realizados todos los pasos previos, la API ya esta escuchando y preparada para recibir y enviar las queries realizadas por el usuario en los distintos endpoints. Para ingresar a los distintos endpoints se puede utilizar Postman y seguir los pasos sugeridos en [Documentación](#Documentación) o en `swaggerdoc.yaml`
+Una vez realizados todos los pasos previos, la API ya esta escuchando y preparada para recibir y enviar las queries realizadas por el usuario en los distintos endpoints. Para ingresar a los distintos endpoints se puede utilizar Postman y seguir los pasos sugeridos en [Documentación](#Documentación)
