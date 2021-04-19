@@ -1,0 +1,32 @@
+{
+  "name": "delilah-resto",
+  "version": "1.0.0",
+  "description": "Backend para un sistema de pedidos online para un restaurante poniendo en funcionamiento las partes necesarias para montar una REST API que permita realizar operaciones CRUD sobre una estructura de datos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianchape/delilahResto.git"
+  },
+  "keywords": [
+    "delilah",
+    "resto",
+    "acamica",
+    "julianchape"
+  ],
+  "author": "julianchape",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianchape/delilahResto/issues"
+  },
+  "homepage": "https://github.com/julianchape/delilahResto#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
